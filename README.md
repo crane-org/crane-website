@@ -1,2 +1,9 @@
-# crane-website
-Webapp of papercrane
+# README
+
+> Webapp of papercrane
+
+## Preview
+
+![](./docs/preview.png)
+
+## Deployment
